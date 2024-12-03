@@ -1,7 +1,7 @@
 <?php
 
 // load the input file
-$input = file_get_contents('./inputs/inputs-1.txt');
+$input = file_get_contents('./inputs/input-1.txt');
 
 // split the input into two lists
 $list1 = [];

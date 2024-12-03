@@ -1,7 +1,7 @@
 <?php
 
 // load the input file
-$input = file_get_contents('./inputs/inputs-2.txt');
+$input = file_get_contents('./inputs/input-2.txt');
 $lines = explode("\n", $input);
 
 // Part 1
